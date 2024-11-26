@@ -61,7 +61,7 @@
       year: 2020-2021
       description:
         - Led team of 4 in analyzing COVID-19 spread effects on state-level business revenue, using Python
-        - Created data visualizations, presenting findings during Correlation One’s capstone symposium
+        - Created data visualizations, presenting findings during Correlation One capstone symposium
 
     
 - title: Honors and Awards
@@ -80,11 +80,10 @@
     - title: Computational Neuroscience
       items:
         - Prefrontal Cortex encoding of Cognitive Variables
-        - Description 2.
     - title: Neuropsychiatric Disorders
       items:
         - Neurobiological loci of impairment in neuropsychiatric disorders
-        - Description 2.
+
 
 - title: Other Interests
   type: list

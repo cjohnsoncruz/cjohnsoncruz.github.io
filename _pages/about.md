@@ -2,7 +2,7 @@
 layout: about
 title: About Me
 permalink: /
-subtitle: <a href='#'></a>Neuroscience Research Scientist at UCSF.
+subtitle: <a href='#'></a> Neuroscience Research Scientist at UCSF.
 
 profile:
   align: right
