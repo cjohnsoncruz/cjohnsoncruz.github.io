@@ -2,7 +2,7 @@
 layout: page
 permalink: /repositories/
 title: repositories
-description: List of public repositories: 
+description: List of public repositories-
 nav: true
 nav_order: 4
 ---
