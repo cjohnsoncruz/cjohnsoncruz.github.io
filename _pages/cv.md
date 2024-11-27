@@ -8,4 +8,89 @@ cv_pdf: cv_pdf.pdf
 description: ou can modify it in '_pages/cv.md'. You can also change or remove the top pdf download button.
 toc:
   sidebar: left
+
+
+- title: Education
+  type: time_table
+  contents:
+    - title: PhD in Neuroscience
+      institution: University of California, San Francisco
+      year: 2024
+      description:
+        - Description 1.
+        - Description 2.
+        - title: Description 3.
+          contents:
+            - Sub-description 1.
+            - Sub-description 2.
+    - title: BA in Neuroscience, cum laude honors 
+      institution: Amherst College
+      year: 2017
+      description:
+        - Relevant courses- Calculus, Intermediate Statistics, Biochemistry, Computer Science
+        - Studied abroad at the Central University of Tibetan Studies in Sarnath, India (Winter Term, 2016)
+        
+
+- title: Experience
+  type: time_table
+  contents:
+    - title: Neuroscience Research Scientist
+      institution: University of California, San Francisco
+      year: 2024-Present
+      description:
+        - Develop and iterate Python machine learning models to quantify information encoding in 1TB+ of neuroimaging time-series data using classification and clustering
+        - Build ETL data pipelines in Python to optimize model accuracy on class-imbalanced datasets
+        - Craft rigorous statistical analysis and hypothesis testing to evaluate significance of results
+        - title: Description 3.
+          contents:
+            - Sub-description 1.
+            - Sub-description 2.
+    - title: Neuroscience PhD Candidate
+      institution: University of California, San Francisco
+      year: 2017-2024
+      description:
+        - Planned and executed experiments to study how neural mutations can impair cognitive processing
+        - Refactored legacy MATLAB codebases, increasing efficiency and speeding up data processing by 30x
+        - Crafted statistical analysis and visualizations, presenting findings to internal and external audiences
+
+    - title: Data Analyst Intern
+      institution: Evidation Health
+      year: 2022
+      description:
+        - Analyzed wearable sensor data using Python and SQL, quantifying data distribution stability
+        - Developed and communicated data-driven recommendations for mitigating data reliability issues to internal cross-functional teams
+
+    - title: Data Science Honors Fellow
+      institution: Correlation One
+      year: 2020-2021
+      description:
+        - Led team of 4 in analyzing COVID-19 spread effects on state-level business revenue, using Python
+        - Created data visualizations, presenting findings during Correlation One capstone symposium
+
+    
+- title: Honors and Awards
+  type: time_table
+  contents:
+    - year: 2017
+      items:
+        - Cum Laude Undergraduate Thesis Honors
+    - year: 2018
+      items:
+        - IMSD Award
+
+- title: Academic Interests
+  type: nested_list
+  contents:
+    - title: Computational Neuroscience
+      items:
+        - Prefrontal Cortex encoding of Cognitive Variables
+    - title: Neuropsychiatric Disorders
+      items:
+        - Neurobiological loci of impairment in neuropsychiatric disorders
+
+
+- title: Other Interests
+  type: list
+  contents:
+    - <u>Hobbies:</u> DJing
 ---
