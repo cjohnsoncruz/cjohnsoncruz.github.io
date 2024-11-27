@@ -6,26 +6,7 @@
     - name: Languages
       value: English, Spanish
 
-- title: Education
-  type: time_table
-  contents:
-    - title: PhD in Neuroscience
-      institution: University of California, San Francisco
-      year: 2024
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: BA in Neuroscience, cum laude honors 
-      institution: Amherst College
-      year: 2017
-      description:
-        - Relevant courses- Calculus, Intermediate Statistics, Biochemistry, Computer Science
-        - Studied abroad at the Central University of Tibetan Studies in Sarnath, India (Winter Term, 2016)
-        
+
 
 - title: Experience
   type: time_table
@@ -84,7 +65,22 @@
       items:
         - Neurobiological loci of impairment in neuropsychiatric disorders
 
-
+- title: Education
+  type: time_table
+  contents:
+    - title: PhD in Neuroscience
+      institution: University of California, San Francisco
+      year: 2024
+      description:
+        - Relevant courses- Deep Learning in Python, Neural Data Analysis, Experimental Design
+        
+    - title: BA in Neuroscience, cum laude honors 
+      institution: Amherst College
+      year: 2017
+      description:
+        - Relevant courses- Calculus, Intermediate Statistics, Biochemistry, Computer Science
+        - Studied abroad at the Central University of Tibetan Studies in Sarnath, India (Winter Term, 2016)
+        
 - title: Other Interests
   type: list
   contents:
