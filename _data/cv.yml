@@ -7,7 +7,6 @@
       value: English, Spanish
 
 
-
 - title: Experience
   type: time_table
   contents:
@@ -18,10 +17,7 @@
         - Develop and iterate Python machine learning models to quantify information encoding in 1TB+ of neuroimaging time-series data using classification and clustering
         - Build ETL data pipelines in Python to optimize model accuracy on class-imbalanced datasets
         - Craft rigorous statistical analysis and hypothesis testing to evaluate significance of results
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
+
     - title: Neuroscience PhD Candidate
       institution: University of California, San Francisco
       year: 2017-2024
