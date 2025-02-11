@@ -39,4 +39,4 @@ social: true # includes social icons at the bottom of the page
     Samples of pre-processed, and analysis results (manuscript in development)
 </div>
 
-   2) Open source post hoc statistical annotation in development: /plot_stat_annot
+   2) Open source post hoc statistical annotation in development: <a href="https://github.com/cjohnsoncruz/plot_posthoc_test" target="_blank" rel="noopener noreferrer">Link to /plot_stat_annot repo</a>
