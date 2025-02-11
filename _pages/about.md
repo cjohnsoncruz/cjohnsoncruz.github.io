@@ -24,5 +24,19 @@ social: true # includes social icons at the bottom of the page
 
    1) Manuscript in development: 
 image: no early IA error subject stage-activity sorted heatmap_08_Feb_2025.png
+Images can be made zoomable.
+
+
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include video.liquid path="assets\video\c6_2 veh cells 16x speed.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+{% include figure.liquid loading="eager" path="assets\img\all summary TSNE- t-SNE ens mean act in task stage_08_Feb_2025.png" class="img-fluid rounded z-depth-1" zoomable=true %}    </div>
+</div>
+<div class="caption">
+    Samples of pre-processed, and analysis results (manuscript in development)
+</div>
 
    2) Open source post hoc statistical annotation in development: /plot_stat_annot
