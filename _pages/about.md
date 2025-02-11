@@ -27,7 +27,10 @@ image: no early IA error subject stage-activity sorted heatmap_08_Feb_2025.png
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include video.liquid path="assets/video/c6_2 veh cells 16x speed.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
+        <video width="640" height="360" autoplay loop muted playsinline>
+      <source src="{{ site.baseurl }}/assets/video/c6_2 veh cells 16x speed.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+      </video>
     </div>
     <div class="col-sm mt-3 mt-md-0">
       {% include figure.liquid loading="eager" path="assets/img/all summary TSNE- t-SNE ens mean act in task stage_08_Feb_2025.png" class="img-fluid rounded z-depth-1" zoomable=true %}
