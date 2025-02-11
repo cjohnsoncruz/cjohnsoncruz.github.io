@@ -26,8 +26,6 @@ social: true # includes social icons at the bottom of the page
 image: no early IA error subject stage-activity sorted heatmap_08_Feb_2025.png
 Images can be made zoomable.
 
-
-
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
         {% include video.liquid path="assets\video\c6_2 veh cells 16x speed.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
