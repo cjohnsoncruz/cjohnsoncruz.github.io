@@ -4,5 +4,6 @@ github_users:
 repo_description_lines_max: 2
 
 github_repos:
+  - cjohnsoncruz/plot_posthoc_test
   - cjohnsoncruz/movie_moods_of_SF
   - cjohnsoncruz/covid_spread_and_business_revenue
