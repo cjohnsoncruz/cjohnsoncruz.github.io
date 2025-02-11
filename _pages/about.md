@@ -23,11 +23,10 @@ social: true # includes social icons at the bottom of the page
   Projects in progress:
 
    1) Manuscript in development: 
-image: no early IA error subject stage-activity sorted heatmap_08_Feb_2025.png
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        <video width="640" height="360" autoplay loop muted playsinline>
+        <video width="240" height="240" autoplay loop muted playsinline>
       <source src="{{ site.baseurl }}/assets/video/c6_2 veh cells 16x speed.mp4" type="video/mp4">
       Your browser does not support the video tag.
       </video>
