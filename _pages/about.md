@@ -20,7 +20,9 @@ social: true # includes social icons at the bottom of the page
   
    He is skilled at building and optimizing analysis pipelines for independently distilling insights from complex datasets and communicating them to technical and non-technical stakeholders. 
    
-   #### Projects in progress:
+  Projects in progress:
+
    1) Manuscript in development: 
+image: no early IA error subject stage-activity sorted heatmap_08_Feb_2025.png
 
    2) Open source post hoc statistical annotation in development: /plot_stat_annot
