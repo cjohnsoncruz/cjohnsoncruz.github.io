@@ -22,7 +22,8 @@ social: true # includes social icons at the bottom of the page
 
 
 
-</div>
+
+
    
   Projects in progress:
 
