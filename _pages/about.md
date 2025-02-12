@@ -27,11 +27,11 @@ social: true # includes social icons at the bottom of the page
    
   Projects in progress:
 
-   1) Manuscript in development: 
+   1) Manuscript on the contribution of interneurons to neural encoding in mouse frontal cortex during cognitive flexiblity in development: 
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        <video width="240" height="240" autoplay loop muted playsinline>
+        <video width="240" height="360" autoplay loop muted playsinline>
       <source src="{{ site.baseurl }}/assets/video/c6_2 veh cells 16x speed.mp4" type="video/mp4">
       Your browser does not support the video tag.
       </video>
@@ -39,9 +39,13 @@ social: true # includes social icons at the bottom of the page
     <div class="col-sm mt-3 mt-md-0">
       {% include figure.liquid loading="eager" path="assets/img/all summary TSNE- t-SNE ens mean act in task stage_08_Feb_2025.png" class="img-fluid rounded z-depth-1" zoomable=true %}
       </div>
+    <div class="col-sm mt-3 mt-md-0">
+      {% include figure.liquid loading="eager" path="assets/img/Cell ensemble generalize decoding cartoon v1.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+      </div>
+
 </div>
 <div class="caption">
-    Samples of pre-processed, and analysis results (manuscript in development)
+    Samples of data and analysis results (manuscript in development)
 </div>
 
    2) Open source post hoc statistical annotation in development: <a href="https://github.com/cjohnsoncruz/plot_posthoc_test" target="_blank" rel="noopener noreferrer">Link to /plot_stat_annot repo</a>
