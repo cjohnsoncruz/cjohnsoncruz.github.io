@@ -23,7 +23,7 @@ social: true # includes social icons at the bottom of the page
 
 <a href="https://soundcloud.com/djcarloscruzsf" target="_blank" rel="noopener noreferrer">I also DJ in my spare time. </a>
 
-
+I have recently created an interactive map of film locations in San Francisco. Check it out <a href="http://www.moviesofsanfrancisco.info/">here</a>!
    
   Projects in progress:
 
@@ -49,3 +49,5 @@ social: true # includes social icons at the bottom of the page
 </div>
 
    2) Open source post hoc statistical annotation in development: <a href="https://github.com/cjohnsoncruz/plot_posthoc_test" target="_blank" rel="noopener noreferrer">Link to /plot_stat_annot repo</a>
+
+   3)  Movies of San Francisco: <a href="http://www.moviesofsanfrancisco.info/">Link to Movies of San Francisco</a>
