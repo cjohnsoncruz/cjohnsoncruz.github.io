@@ -21,13 +21,14 @@ social: true # includes social icons at the bottom of the page
    I'm skilled at building and optimizing analysis pipelines to independently distill insights from complex datasets and communicate them to technical and non-technical stakeholders. I am driven to produce work providing meaningful and actionable insight to others; to that end, I have spent years in self-directed study to learn deep and machine-learning techniques to add to my analytical toolbox. 
 
 
-<a href="https://soundcloud.com/djcarloscruzsf" target="_blank" rel="noopener noreferrer">I also DJ in my spare time. </a>
-
-I have recently created an interactive map of film locations in San Francisco. Check it out <a href="http://www.moviesofsanfrancisco.info/">here</a>!
    
-  Projects in progress:
+  Projects:
 
-   1) Manuscript on the contribution of interneurons to neural encoding in mouse frontal cortex during cognitive flexibility in development: 
+1) My manuscript "Circuit inhibition promotes the dynamic reorganization of prefrontal task encoding to support cognitive flexibility" is finished and pending submission to a preprint server! 
+
+2) <a href="http://www.moviesofsanfrancisco.info/"> I recently created an interactive map of film locations in San Francisco as a side project. Check it out here! </a>
+
+3) <a href="https://soundcloud.com/djcarloscruzsf" target="_blank" rel="noopener noreferrer">I also DJ in my spare time. </a>
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
