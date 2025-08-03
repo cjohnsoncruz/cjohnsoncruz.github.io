@@ -15,20 +15,21 @@ news: False # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
+## Who am I?
 
-  I am a neuroscience researcher with 7 years of experience in experimental design, data science, and deep/machine learning. My work experience spans various topic areas, including a Data Analysis internship analyzing wearable sensor data at Evidation Health and a PhD thesis using machine learning on neuroimaging time-series data to understand the neurobiology of cognitive deficits in schizophrenia.
-  
-   I'm skilled at building and optimizing analysis pipelines to independently distill insights from complex datasets and communicate them to technical and non-technical stakeholders. I am driven to produce work providing meaningful and actionable insight to others; to that end, I have spent years in self-directed study to learn deep and machine-learning techniques to add to my analytical toolbox. 
+I am a neuroscience researcher with 7 years of experience in experimental design, data science, and deep/machine learning. My work experience spans various topic areas, including a Data Analysis internship analyzing wearable sensor data at Evidation Health and a PhD thesis using machine learning on neuroimaging time-series data to understand the neurobiology of cognitive deficits in schizophrenia.
 
+I'm skilled at building and optimizing analysis pipelines to independently distill insights from complex datasets and communicate them to technical and non-technical stakeholders. I am driven to produce work providing meaningful and actionable insight to others; to that end, I have spent years in self-directed study to learn deep and machine-learning techniques to add to my analytical toolbox. 
 
-   
-  Projects:
+## Projects
 
 1) My manuscript "Circuit inhibition promotes the dynamic reorganization of prefrontal task encoding to support cognitive flexibility" is finished and pending submission to a preprint server! 
 
 2) <a href="http://www.moviesofsanfrancisco.info/"> I recently created an interactive map of film locations in San Francisco as a side project. Check it out here! </a>
 
-3) <a href="https://soundcloud.com/djcarloscruzsf" target="_blank" rel="noopener noreferrer">I also DJ in my spare time. </a>
+3) Open source post hoc statistical annotation in development: <a href="https://github.com/cjohnsoncruz/plot_posthoc_test" target="_blank" rel="noopener noreferrer">Link to /plot_stat_annot repo</a>
+
+4) <a href="https://soundcloud.com/djcarloscruzsf" target="_blank" rel="noopener noreferrer">I also DJ in my spare time. </a>
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
@@ -49,6 +50,3 @@ social: true # includes social icons at the bottom of the page
     Samples of data and analysis results (manuscript in development)
 </div>
 
-   2) Open source post hoc statistical annotation in development: <a href="https://github.com/cjohnsoncruz/plot_posthoc_test" target="_blank" rel="noopener noreferrer">Link to /plot_stat_annot repo</a>
-
-   3)  Movies of San Francisco: <a href="http://www.moviesofsanfrancisco.info/">Link to Movies of San Francisco</a>
