@@ -189,8 +189,8 @@ newsletter:
 # ImageMagick
 # -----------------------------------------------------------------------------
 
-imagemagick:
-  enabled: false  # Set to false to disable WebP conversion
+# imagemagick:
+  # enabled: false  # Set to false to disable WebP conversion
 
 # -----------------------------------------------------------------------------
 # Collections
