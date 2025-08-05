@@ -52,9 +52,7 @@
       {% elsif site.lazy_loading_images %}
         loading="lazy"
       {% endif %}
-      onerror="this.onerror=null; $('.responsive-img-srcset').remove();"
     >
-  </picture>
 
   {% if include.caption %}
     <figcaption class="caption">{{ include.caption }}</figcaption>
