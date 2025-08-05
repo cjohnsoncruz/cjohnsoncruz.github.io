@@ -15,6 +15,7 @@ news: False # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
+
 ## Who am I?
 
 I am a neuroscientist with 7 years of experience in experimental design, data science, and deep/machine learning. I've worked with various forms of biological data, including wearable sensor time-series data during my Data Analysis internship at Evidation Health and neural time-series data for my PhD research, where I used deep and machine learning to analyze neural representations during cognitive flexiblity.
@@ -34,7 +35,7 @@ I'm skilled at building/optimizing analysis pipelines to independently distill i
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
         <video width="240" height="360" autoplay loop muted playsinline>
-      <source src="{{ site.baseurl }}/assets/video/c6_2 veh cells 16x speed.mp4" type="video/mp4">
+      <source src="/assets/video/c6_2 veh cells 16x speed.mp4" type="video/mp4">
       Your browser does not support the video tag.
       </video>
     </div>
