@@ -39,7 +39,6 @@ Starting version [v0.3.5](https://github.com/alshedivat/al-folio/releases/tag/v0
 
 ## Local setup on Windows
 
-
 ## Local setup using Docker (Recommended)
 
 Using Docker to install Jekyll and Ruby dependencies is the easiest way.
@@ -180,4 +179,3 @@ If `$HOME/repo/publishing-source` contains files that you want jekyll to leave u
 In its default configuration, al-folio will copy the top-level `README.md` to the publishing source. If you want to change this behavior, add `README.md` under `exclude` in `_config.yml`.
 
 **Note:** Do _not_ run `jekyll clean` on your publishing source repo as this will result in the entire directory getting deleted, irrespective of the content of `keep_files` in `_config.yml`.
-
