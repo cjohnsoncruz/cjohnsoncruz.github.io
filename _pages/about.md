@@ -2,7 +2,7 @@
 layout: about
 title: About Me
 permalink: /
-subtitle: <a href='#'></a> Neuroscience Postdoctoral Research Scientist at UCSF.
+subtitle: <a href='#'></a> Neuroscience Postdoctoral Research Scientist at UCSF. Socials are linked below.
 
 profile:
   align: right
@@ -17,13 +17,13 @@ social: true # includes social icons at the bottom of the page
 ---
 ## Who am I?
 
-I am a neuroscience researcher with 7 years of experience in experimental design, data science, and deep/machine learning. My work experience spans various topic areas, including a Data Analysis internship analyzing wearable sensor data at Evidation Health and a PhD thesis using machine learning on neuroimaging time-series data to understand the neurobiology of cognitive deficits in schizophrenia.
+I am a neuroscientist with 7 years of experience in experimental design, data science, and deep/machine learning. I've worked with various forms of biological data, including wearable sensor time-series data during my Data Analysis internship at Evidation Health and neural time-series data for my PhD research, where I used deep and machine learning to analyze neural representations during cognitive flexiblity.
 
-I'm skilled at building and optimizing analysis pipelines to independently distill insights from complex datasets and communicate them to technical and non-technical stakeholders. I am driven to produce work providing meaningful and actionable insight to others; to that end, I have spent years in self-directed study to learn deep and machine-learning techniques to add to my analytical toolbox. 
+I'm skilled at building/optimizing analysis pipelines to independently distill insights from complex biological datasets and communicate them to cross-functional audiences. I'm driven to produce meaningful and actionable insight from data; I've spent years in self-directed study to add to my analytical toolbox. 
 
 ## Projects
 
-1) My manuscript "Circuit inhibition promotes the dynamic reorganization of prefrontal task encoding to support cognitive flexibility" is finished and pending submission to a preprint server! 
+1) My manuscript "Circuit inhibition promotes the dynamic reorganization of prefrontal task encoding to support cognitive flexibility" is being submitted to a preprint server! 
 
 2) <a href="http://www.moviesofsanfrancisco.info/"> I recently created an interactive map of film locations in San Francisco as a side project. Check it out here! </a>
 
