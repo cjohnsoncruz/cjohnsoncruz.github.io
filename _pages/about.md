@@ -40,10 +40,10 @@ I'm skilled at building/optimizing analysis pipelines to independently distill i
       </video>
     </div>
     <div class="col-sm mt-3 mt-md-0">
-      {% include figure.liquid loading="eager" path="assets/img/all summary TSNE- t-SNE ens mean act in task stage_21_Jul_2025.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+      {% include figure.liquid loading="eager" path="assets/img/Autoencoder projection- latent space- Early_IA_Error_v_Early_RS_Error ens.png" class="img-fluid rounded z-depth-1" zoomable=true %}
       </div>
     <div class="col-sm mt-3 mt-md-0">
-      {% include figure.liquid loading="eager" path="assets/img/Autoencoder projection- latent space- Early_IA_Error_v_Early_RS_Error ens.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+      {% include figure.liquid loading="eager" path="assets/img/all summary TSNE- t-SNE ens mean act in task stage_21_Jul_2025.png" class="img-fluid rounded z-depth-1" zoomable=true %}
       </div>
 
 </div>
