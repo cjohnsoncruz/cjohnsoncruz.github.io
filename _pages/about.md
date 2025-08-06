@@ -34,16 +34,16 @@ I'm skilled at building/optimizing analysis pipelines to independently distill i
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        <video width="240" height="360" autoplay loop muted playsinline>
+        <video width="360" height="360" autoplay loop muted playsinline>
       <source src="/assets/video/c6_2 veh cells 16x speed.mp4" type="video/mp4">
       Your browser does not support the video tag.
       </video>
     </div>
     <div class="col-sm mt-3 mt-md-0">
-      {% include figure.liquid loading="eager" path="assets/img/Autoencoder latent space- Early_IA_Correct_v_Early_RS_Correct ens_13_Apr_2025.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+      {% include figure.liquid loading="eager" path="assets/img/all summary TSNE- t-SNE ens mean act in task stage_21_Jul_2025.png" class="img-fluid rounded z-depth-1" zoomable=true %}
       </div>
     <div class="col-sm mt-3 mt-md-0">
-      {% include figure.liquid loading="eager" path="assets/img/Decode inStage- Early RS Correct ENS- Train_Test IA_RS Correct cartoon v2.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+      {% include figure.liquid loading="eager" path="assets/img/Autoencoder projection- latent space- Early_IA_Error_v_Early_RS_Error ens.png" class="img-fluid rounded z-depth-1" zoomable=true %}
       </div>
 
 </div>
