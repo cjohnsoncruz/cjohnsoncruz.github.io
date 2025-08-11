@@ -24,7 +24,7 @@ I'm skilled at building/optimizing analysis pipelines to independently distill i
 
 ## Projects
 
-1. <a href="https://www.biorxiv.org/content/10.1101/2025.08.09.669414v1"> My manuscript "Circuit inhibition promotes the dynamic reorganization of prefrontal task encoding to support cognitive flexibility" is now available on bioRxiv </a>!
+1. <a href="https://www.biorxiv.org/content/10.1101/2025.08.09.669414v1"> My manuscript "Circuit inhibition promotes the dynamic reorganization of prefrontal task encoding to support cognitive flexibility" is now on bioRxiv </a>!
 
 2. <a href="http://www.moviesofsanfrancisco.info/"> I recently created an interactive map of film locations in San Francisco as a side project. Check it out here! </a>
 
